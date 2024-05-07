@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello from maven-jenkins project !</h2>
+<h2>this job is fully automated</h2>
 </body>
 </html>

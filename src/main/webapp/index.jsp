@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>maven-jenkins pipeline</h2>
+<h2>build from docker image !!</h2>
 </body>
 </html>

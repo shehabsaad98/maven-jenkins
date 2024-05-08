@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>this job is fully automated</h2>
+<h2>maven-jenkins pipeline</h2>
 </body>
 </html>

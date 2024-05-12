@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> build from docker image with cached repo and non-root !!</h2>
+<h2> complete pipeline triggered from simulated webhook</h2>
 </body>
 </html>

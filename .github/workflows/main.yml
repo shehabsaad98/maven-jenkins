@@ -1,0 +1,11 @@
+name: jenkins remote trigger
+on:
+  push:
+    branches:
+    - main
+  jobs:
+    do-curl:
+      runs-on: [self-hosted]
+      steps:
+      - name: doing curl to trigger pipeline
+        run: curl -X POST http://192.168.159.142:8080/job/mav-jen/build --user builduser:1184e2611996346927f61c01d2bbda8af1
